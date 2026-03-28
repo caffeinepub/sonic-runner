@@ -114,7 +114,7 @@ interface GameData {
 // ─── Constants ────────────────────────────────────────────────────────────────
 const GROUND_TOP = 360;
 const GRAVITY = 1800;
-const JUMP_VY = -640;
+const JUMP_VY = -779;
 const MARIO_W = 32;
 const MARIO_H = 40;
 const MARIO_X = 80;
